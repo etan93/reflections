@@ -4,7 +4,7 @@ import time
 import string
 
 
-#test git
+#test git branch, new commit
 def create_file(text):
 
     t = time.localtime()
